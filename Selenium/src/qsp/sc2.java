@@ -10,7 +10,7 @@ public class selintroduction {
 		
 		System.setProperty("webdriver.chrome.driver","D:/SOFTWARES/chromedriver-win64/chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
-		driver.get("https://rahulshettyacademy.com");
+		driver.get("https://rahulshettyacademy.com/");
 		//System.out.println(driver.getTitle());
 
 	}
